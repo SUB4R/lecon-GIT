@@ -96,6 +96,9 @@ git revert id_commit
 #                    REMOTE                  #
 #------------------------------------------------#
 
+#
+
+git
 # Etablir une connexion avec un depot distant en lui attribuant un nom et une url
 git remote add alis url
 
